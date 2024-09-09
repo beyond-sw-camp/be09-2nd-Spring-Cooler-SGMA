@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/551a2c5d-d3f6-4fd8-846f-fa80557d841e)
 
-## 목차
+# 목차
 1. [팀 소개](#팀-소개)
 2. [기술 스택](#기술-스택)
    - [Backend](#1-backend)
@@ -26,11 +26,14 @@
      - [개념 모델링](#1-개념-모델링)
      - [논리 모델링](#2-논리-모델링)
      - [물리 모델링](#3-물리-모델링)
-   - [동료 평가](#동료평가)
+5. [산출물](#산출물)
+
+- [동료 평가](#동료평가)
+>>>>>>> develop
 
 ---
 
-### Team _Spring-Cooler_<a id="팀-소개"></a>
+## Team _Spring-Cooler_<a id="팀-소개"></a>
 > 스프링을 더 멋지게
 
 [<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://amber-vise-de0.notion.site/3-_-1da69b5acbe84d79be8e57bbf7cd7cee)
@@ -42,9 +45,9 @@
 | ESTJ                                                                                                     | ISTP                                                                                                    | ESTP                                                                                                                        | INFJ                                                                                                              | ESTJ                                                                                                    |
 
 ---
-## 기술 스택 <a id="기술-스택"></a>
+# 기술 스택 <a id="기술-스택"></a>
 
-### 1. Backend <a id="1-backend"></a>
+## 1. Backend <a id="1-backend"></a>
 
 | Java 17                                                                           | Spring Boot                                                                                              | Spring Data JPA                                                                                   | MyBatis                                                                                                 | Hibernate                                                                       | Spring Security                                                                                                   | JWT                                                                                      | Gradle                                                                 | JUnit5                                                                                             | Spring Batch                                                           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -53,26 +56,26 @@
 
 
 
-### 2. Database <a id="2-database"></a>
+## 2. Database <a id="2-database"></a>
 
 | MariaDB                                                                   | Redis                                                                               | AWS S3 Bucket                                                                                              |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&logo=mariadb) | ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)|
 
-### 3. Tool <a id="3-tool"></a>
+## 3. Tool <a id="3-tool"></a>
 
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> &nbsp; | <img src="https://img.shields.io/badge/DA%23-0B6121.svg?style=flat&logo=draw.io&logoColor=white"> &nbsp; | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## 프로젝트 개요 <a id="프로젝트-개요"></a>
+# 프로젝트 개요 <a id="프로젝트-개요"></a>
 ---
-### 1. 배경 <a id="1-배경"></a>
+## 1. 배경 <a id="1-배경"></a>
 1. 팀 스터디의 효율성을 향상시킬 수 있는 도구가 필요함
 2. 일정 관리, 학습 진도 파악 등 스터디의 정보를 한 곳에서 모아볼 수 있는 서비스가 없음
-### 2. 서비스 목표 <a id="2-서비스-목표"></a>
+## 2. 서비스 목표 <a id="2-서비스-목표"></a>
 > 팀 스터디의 모든 과정을 쉽게 관리 및 각 멤버가 자신의 학습 목표를 달성할 수 있도록 도움
 
-### 3. 차별점 <a id="3-차별점"></a>
+## 3. 차별점 <a id="3-차별점"></a>
 |         | 팀원모집 | 일정관리 | 문제 출제 | 일정관리 |
 | ------- | ---- | ---- | ----- | ---- |
 | Studyin | ㅇ    | ㅇ    |       | ㅇ    |
@@ -80,50 +83,97 @@
 | 공작소     | ㅇ    | ㅇ    |       | ㅇ    |
 | SGMA    | ㅇ    | ㅇ    | ㅇ     | ㅇ    |
 
-### 4. 핵심 기능 <a id="4-핵심-기능"></a>
+## 4. 핵심 기능 <a id="4-핵심-기능"></a>
 1. 스터디 그룹 생성 및 모집
 2. 학습 내용 확인 및 공유
 3. 학습 성취도 시각화
-### 5. 기대 효과 <a id="5-기대-효과"></a>
+## 5. 기대 효과 <a id="5-기대-효과"></a>
 > 단순한 학습의 장을 넘어, 체계적이고 효과적인 학습 플랫폼으로 발전할 수 있을 것으로 기대
- 
 
-## 설계 문서 <a id="설계-문서"></a>
+
+# 설계 문서 <a id="설계-문서"></a>
 ---
 
-#### System Architecture <a id="system-architecture"></a>
+### System Architecture <a id="system-architecture"></a>
 ![image](https://github.com/user-attachments/assets/88199112-1940-4cba-96ea-cd7031117c78)
 
 
-#### 요구사항 정의서 <a id="요구사항-정의서"></a>
+### 요구사항 정의서 <a id="요구사항-정의서"></a>
 [요구사항 정의서 바로가기](https://docs.google.com/spreadsheets/d/1XVX6lAse2VZzDybUvryL8GyeM3-PO_EZMFG10hMVJSk/edit?gid=0#gid=0)
 
 ![image](https://github.com/user-attachments/assets/ad2a9474-3dd2-4e5c-bdf4-fa0e48cb4d55)
 
-### WBS <a id="wbs"></a>
+## WBS <a id="wbs"></a>
 [WBS 바로가기](https://docs.google.com/spreadsheets/d/1XVX6lAse2VZzDybUvryL8GyeM3-PO_EZMFG10hMVJSk/edit?gid=1079017783#gid=1079017783)
 
 ![image](https://github.com/user-attachments/assets/a5f97514-d78e-476b-a472-b76dd4a22eee)
 
 
-### 주요 기능 FLOW CHART <a id="주요-기능-flow-chart"></a>
+## 주요 기능 FLOW CHART <a id="주요-기능-flow-chart"></a>
 ![문제관련 drawio (1)](https://github.com/user-attachments/assets/59625632-7ce8-4300-b085-945d176620f8)
 
-### DDD <a id="ddd"></a>
-#### 1. Event Storming <a id="1-event-storming"></a>
+## DDD <a id="ddd"></a>
+### 1. Event Storming <a id="1-event-storming"></a>
 ![image](https://github.com/user-attachments/assets/b11ddb78-7874-4dfd-a8c0-ebfdbd41e238)
-#### 2. Bounded Context <a id="2-bounded-context"></a>
+### 2. Bounded Context <a id="2-bounded-context"></a>
 ![image](https://github.com/user-attachments/assets/3efdd6c0-09bb-4ac0-ae83-d0e399f39ccd)
-### DB 모델링 <a id="db-모델링"></a>
-#### 1. 개념 모델링 <a id="1-개념-모델링"></a>
+## DB 모델링 <a id="db-모델링"></a>
+### 1. 개념 모델링 <a id="1-개념-모델링"></a>
 ![image](https://github.com/user-attachments/assets/e6dea257-6429-4be1-91f4-fa653914148e)
-#### 2. 논리 모델링 <a id="2-논리-모델링"></a>
+### 2. 논리 모델링 <a id="2-논리-모델링"></a>
 ![image](https://github.com/user-attachments/assets/398562df-4355-4f4b-b6ed-cfd6b9fc3f19)
-#### 3. 물리 모델링 <a id="3-물리-모델링"></a>
+### 3. 물리 모델링 <a id="3-물리-모델링"></a>
 ![image](https://github.com/user-attachments/assets/8a79a240-e42b-4341-a202-77a251d1a636)
 
 
+## 산출물<a id="산출물"></a>
+## 1. 회원 관련 <a id="회원 관련"></a>
+### 회원가입을 위한 이메일 인증
+![image](https://github.com/user-attachments/assets/64cdbec0-460d-48c4-9e9c-f30296c8c677)
+![image](https://github.com/user-attachments/assets/2e39b1ac-1af6-46d4-b132-be6ca4f2b9ef)
+
+### Redis를 이용한 이메일 인증번호 저장
+![image](https://github.com/user-attachments/assets/918c81ea-5664-45ea-ba57-fbaff65a7d4f)
+
+### 로그인 후 토큰 발급
+![image](https://github.com/user-attachments/assets/c64aa1df-a63f-4210-b8bb-bc6e4938e567)
+
+### 회원정보 수정 및 S3를 이용한 파일 저장
+![image](https://github.com/user-attachments/assets/22b5047e-fee1-4a8b-8c5a-7ec17d13576e)
+![image](https://github.com/user-attachments/assets/6d46b6fa-6d98-4ead-bb10-b5b1dd843449)
+## 2. 스터디 그룹 관련 <a id="스터디 그룹 관련"></a>
+### Spring Batch와 Scheduling을 이용한 모집 글 활성화 여부 관리
+![image](https://github.com/user-attachments/assets/c15026df-42f4-4397-9500-312cb759cf5e)
+### 스터디 그룹 지원 승인
+![image](https://github.com/user-attachments/assets/f1dbc70e-658c-4a64-b213-7a78c282498a)
+### 스터디 그룹 내 문제 채점
+![image](https://github.com/user-attachments/assets/bf2b8836-557e-4a5a-a42d-69185f12b483)
+### 스터디 그룹 내 문제 채점 결과에 따른 평균 및 표준편차 
+![image](https://github.com/user-attachments/assets/82562a41-5eb6-4b11-907d-c6e5b83ee244)
+
+## 📜 동료평가 <a id="동료평가"></a>
+=======
+### 산출물<a id="산출물"></a>
+
+#### 회원가입을 위한 이메일 인증
+![image](https://github.com/user-attachments/assets/64cdbec0-460d-48c4-9e9c-f30296c8c677)
+![image](https://github.com/user-attachments/assets/2e39b1ac-1af6-46d4-b132-be6ca4f2b9ef)
+
+#### Redis를 이용한 이메일 인증번호 저장
+![image](https://github.com/user-attachments/assets/918c81ea-5664-45ea-ba57-fbaff65a7d4f)
+
+#### 로그인 후 토큰 발급
+![image](https://github.com/user-attachments/assets/c64aa1df-a63f-4210-b8bb-bc6e4938e567)
+
+#### 회원정보 수정 및 S3를 이용한 파일 저장
+![image](https://github.com/user-attachments/assets/22b5047e-fee1-4a8b-8c5a-7ec17d13576e)
+![image](https://github.com/user-attachments/assets/6d46b6fa-6d98-4ead-bb10-b5b1dd843449)
+
+#### Spring Batch와 Scheduling을 이용한 게시글 활성화 여부 관리
+![image](https://github.com/user-attachments/assets/c15026df-42f4-4397-9500-312cb759cf5e)
+
 ### 📜 동료평가 <a id="동료평가"></a>
+
 
 |Team Member| 조창욱 동료평가 |
 | :--------------------------------------: | ------ |
