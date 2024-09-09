@@ -125,49 +125,45 @@
 ![image](https://github.com/user-attachments/assets/8a79a240-e42b-4341-a202-77a251d1a636)
 
 
-## 산출물<a id="산출물"></a>
-## 1. 회원 관련 <a id="회원 관련"></a>
-### 회원가입을 위한 이메일 인증
-![image](https://github.com/user-attachments/assets/64cdbec0-460d-48c4-9e9c-f30296c8c677)
-![image](https://github.com/user-attachments/assets/2e39b1ac-1af6-46d4-b132-be6ca4f2b9ef)
-
-### Redis를 이용한 이메일 인증번호 저장
-![image](https://github.com/user-attachments/assets/918c81ea-5664-45ea-ba57-fbaff65a7d4f)
-
-### 로그인 후 토큰 발급
-![image](https://github.com/user-attachments/assets/c64aa1df-a63f-4210-b8bb-bc6e4938e567)
-
-### 회원정보 수정 및 S3를 이용한 파일 저장
-![image](https://github.com/user-attachments/assets/22b5047e-fee1-4a8b-8c5a-7ec17d13576e)
-![image](https://github.com/user-attachments/assets/6d46b6fa-6d98-4ead-bb10-b5b1dd843449)
-## 2. 스터디 그룹 관련 <a id="스터디 그룹 관련"></a>
-### Spring Batch와 Scheduling을 이용한 모집 글 활성화 여부 관리
-![image](https://github.com/user-attachments/assets/c15026df-42f4-4397-9500-312cb759cf5e)
-### 스터디 그룹 지원 승인
-![image](https://github.com/user-attachments/assets/f1dbc70e-658c-4a64-b213-7a78c282498a)
-### 스터디 그룹 내 문제 채점
-![image](https://github.com/user-attachments/assets/bf2b8836-557e-4a5a-a42d-69185f12b483)
-### 스터디 그룹 내 문제 채점 결과에 따른 평균 및 표준편차 
-![image](https://github.com/user-attachments/assets/82562a41-5eb6-4b11-907d-c6e5b83ee244)
-
 ### 산출물<a id="산출물"></a>
 
-#### 회원가입을 위한 이메일 인증
-![image](https://github.com/user-attachments/assets/64cdbec0-460d-48c4-9e9c-f30296c8c677)
-![image](https://github.com/user-attachments/assets/2e39b1ac-1af6-46d4-b132-be6ca4f2b9ef)
+<details>
+  <summary>회원가입을 위한 이메일 인증</summary>
 
-#### Redis를 이용한 이메일 인증번호 저장
-![image](https://github.com/user-attachments/assets/918c81ea-5664-45ea-ba57-fbaff65a7d4f)
+  ![image](https://github.com/user-attachments/assets/64cdbec0-460d-48c4-9e9c-f30296c8c677)
+  ![image](https://github.com/user-attachments/assets/2e39b1ac-1af6-46d4-b132-be6ca4f2b9ef)
 
-#### 로그인 후 토큰 발급
-![image](https://github.com/user-attachments/assets/c64aa1df-a63f-4210-b8bb-bc6e4938e567)
+</details>
 
-#### 회원정보 수정 및 S3를 이용한 파일 저장
-![image](https://github.com/user-attachments/assets/22b5047e-fee1-4a8b-8c5a-7ec17d13576e)
-![image](https://github.com/user-attachments/assets/6d46b6fa-6d98-4ead-bb10-b5b1dd843449)
+<details>
+  <summary>Redis를 이용한 이메일 인증번호 저장</summary>
 
-#### Spring Batch와 Scheduling을 이용한 게시글 활성화 여부 관리
-![image](https://github.com/user-attachments/assets/c15026df-42f4-4397-9500-312cb759cf5e)
+  ![image](https://github.com/user-attachments/assets/918c81ea-5664-45ea-ba57-fbaff65a7d4f)
+
+</details>
+
+<details>
+  <summary>로그인 후 토큰 발급</summary>
+
+  ![image](https://github.com/user-attachments/assets/c64aa1df-a63f-4210-b8bb-bc6e4938e567)
+
+</details>
+
+<details>
+  <summary>회원정보 수정 및 S3를 이용한 파일 저장</summary>
+
+  ![image](https://github.com/user-attachments/assets/22b5047e-fee1-4a8b-8c5a-7ec17d13576e)
+  ![image](https://github.com/user-attachments/assets/6d46b6fa-6d98-4ead-bb10-b5b1dd843449)
+
+</details>
+
+<details>
+  <summary>Spring Batch와 Scheduling을 이용한 게시글 활성화 여부 관리</summary>
+
+  ![image](https://github.com/user-attachments/assets/c15026df-42f4-4397-9500-312cb759cf5e)
+
+</details>
+
 
 ### 📜 동료평가 <a id="동료평가"></a>
 
